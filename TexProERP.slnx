@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TexProERP.Api/TexProERP.Api.csproj" />
+    <Project Path="src/TexProERP.Core/TexProERP.Core.csproj" />
+    <Project Path="src/TexProERP.Infrastructure/TexProERP.Infrastructure.csproj" />
+    <Project Path="src/TexProERP.Web/TexProERP.Web.csproj" />
+  </Folder>
+</Solution>
